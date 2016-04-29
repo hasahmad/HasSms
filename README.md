@@ -3,7 +3,8 @@ Simple website to send SMS Messages using smsgateway.me API and your Android pho
 
 **Its Free**
 
-**Make sure you have a server running on your machine.**
+**Make sure you have an Android Phone with working SMS service and server (local or online) running on your machine.**
+*** If you dont know how to install/run server on you laptop/desktop, search on google "Xampp" (for PC)  or "Mamp" (for Mac OS X)***
 
 # Setup
 ##### Only works with Andoid phones and working messaging service
