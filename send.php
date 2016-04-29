@@ -1,6 +1,7 @@
 <?php
+require '.config/config.php';
 
-require 'config.php';
+
 
 if(isset($_POST['submit'])){
 	$deviceID = $_POST['from'];
@@ -12,7 +13,7 @@ if(isset($_POST['submit'])){
 	$result = $smsGateway->sendMessageToManyNumbers($numbers, $message, $deviceID);
 
 	$json_msg = json_encode($result);
-	echo $json_msg;
+	echo '<pre>' . $json_msg . '</pre>';
 	// echo count($numbers);
 	// echo count($_POST['dest']);
 }
