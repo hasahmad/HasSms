@@ -27,7 +27,7 @@ Simple website to send SMS Messages using smsgateway.me API and your Android pho
 
 
 ##### This project is under **development** and more features will be added in the future.
-
+## Note: I am not affiliated/work for smsgateway.me
 #### ENJOY
 
 
