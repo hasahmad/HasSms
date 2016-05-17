@@ -17,7 +17,7 @@ Simple website to send SMS Messages using smsgateway.me API and your Android pho
 3. Login to the app using the email and password.
   * You should see a screen simit to this:
     
-    <img src="http://ahmadhas.com/hassms/images/LaunchScreen.png" height="400px">
+    <img src="https://github.com/hasahmad/HasSms/blob/master/LaunchScreen.png" height="400px">
 
 4. Create a directory folder where you can run php files on your server (e.g., n mac os x, its "Sites" folder) and clone/download this git 
 
